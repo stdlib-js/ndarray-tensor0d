@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`ce981c2`](https://github.com/stdlib-js/stdlib/commit/ce981c228d1aa2c2da9106b4bce116433e817eac) - update `ndarray/tensor0d` TypeScript declarations [(#16634)](https://github.com/stdlib-js/stdlib/pull/16634)
 -   [`a3ad26b`](https://github.com/stdlib-js/stdlib/commit/a3ad26b5be1c7c0d0216e69965ce2771e0f971c0) - add `ndarray/tensor0d` namespace
 -   [`d5bf322`](https://github.com/stdlib-js/stdlib/commit/d5bf3221f8e6f11678eee433e472e09865b5b69a) - add `ndarray/tensor0d/complex64`
 -   [`5ba84ab`](https://github.com/stdlib-js/stdlib/commit/5ba84ab16f4569c2b04b4b78c226f117095b04e8) - add `ndarray/tensor0d/complex128`
@@ -49,6 +50,8 @@
 
 <details>
 
+-   [`ce981c2`](https://github.com/stdlib-js/stdlib/commit/ce981c228d1aa2c2da9106b4bce116433e817eac) - **feat:** update `ndarray/tensor0d` TypeScript declarations [(#16634)](https://github.com/stdlib-js/stdlib/pull/16634) _(by stdlib-bot)_
+-   [`f91b31b`](https://github.com/stdlib-js/stdlib/commit/f91b31b6f7b190b4929ec93cd691416e5db67db3) - **docs:** update namespace table of contents [(#16635)](https://github.com/stdlib-js/stdlib/pull/16635) _(by stdlib-bot)_
 -   [`a3ad26b`](https://github.com/stdlib-js/stdlib/commit/a3ad26b5be1c7c0d0216e69965ce2771e0f971c0) - **feat:** add `ndarray/tensor0d` namespace _(by Athan Reines)_
 -   [`d5bf322`](https://github.com/stdlib-js/stdlib/commit/d5bf3221f8e6f11678eee433e472e09865b5b69a) - **feat:** add `ndarray/tensor0d/complex64` _(by Athan Reines)_
 -   [`5ba84ab`](https://github.com/stdlib-js/stdlib/commit/5ba84ab16f4569c2b04b4b78c226f117095b04e8) - **feat:** add `ndarray/tensor0d/complex128` _(by Athan Reines)_
