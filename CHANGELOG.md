@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-15)
+## Unreleased (2026-11-21)
 
 <section class="features">
 
 ### Features
 
+-   [`ce981c2`](https://github.com/stdlib-js/stdlib/commit/ce981c228d1aa2c2da9106b4bce116433e817eac) - update `ndarray/tensor0d` TypeScript declarations [(#16634)](https://github.com/stdlib-js/stdlib/pull/16634)
 -   [`a3ad26b`](https://github.com/stdlib-js/stdlib/commit/a3ad26b5be1c7c0d0216e69965ce2771e0f971c0) - add `ndarray/tensor0d` namespace
 -   [`d5bf322`](https://github.com/stdlib-js/stdlib/commit/d5bf3221f8e6f11678eee433e472e09865b5b69a) - add `ndarray/tensor0d/complex64`
 -   [`5ba84ab`](https://github.com/stdlib-js/stdlib/commit/5ba84ab16f4569c2b04b4b78c226f117095b04e8) - add `ndarray/tensor0d/complex128`
@@ -49,6 +50,9 @@
 
 <details>
 
+-   [`5edc9dd`](https://github.com/stdlib-js/stdlib/commit/5edc9dd5fef62c060c71f880745c3aa0f936fb21) - **docs:** update related packages sections [(#16731)](https://github.com/stdlib-js/stdlib/pull/16731) _(by stdlib-bot)_
+-   [`3c78e19`](https://github.com/stdlib-js/stdlib/commit/3c78e1903e9cb9199a2a2848c405b2d1bede1222) - **chore:** clean-up [(#16641)](https://github.com/stdlib-js/stdlib/pull/16641) _(by Philipp Burckhardt)_
+-   [`ce981c2`](https://github.com/stdlib-js/stdlib/commit/ce981c228d1aa2c2da9106b4bce116433e817eac) - **feat:** update `ndarray/tensor0d` TypeScript declarations [(#16634)](https://github.com/stdlib-js/stdlib/pull/16634) _(by stdlib-bot)_
 -   [`f91b31b`](https://github.com/stdlib-js/stdlib/commit/f91b31b6f7b190b4929ec93cd691416e5db67db3) - **docs:** update namespace table of contents [(#16635)](https://github.com/stdlib-js/stdlib/pull/16635) _(by stdlib-bot)_
 -   [`a3ad26b`](https://github.com/stdlib-js/stdlib/commit/a3ad26b5be1c7c0d0216e69965ce2771e0f971c0) - **feat:** add `ndarray/tensor0d` namespace _(by Athan Reines)_
 -   [`d5bf322`](https://github.com/stdlib-js/stdlib/commit/d5bf3221f8e6f11678eee433e472e09865b5b69a) - **feat:** add `ndarray/tensor0d/complex64` _(by Athan Reines)_
